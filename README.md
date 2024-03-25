@@ -36,6 +36,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
 
+[<img src="https://images.credly.com/size/220x220/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="100" height="100">](https://www.credly.com/badges/a70943e8-3348-450a-b8a5-fd50e811a96b/public_url) Endpoint Security - Cisco
+
 ### ⏳ Sistemas de Informação (UFV-CRP 8º Período)
 
 ### ✅ Formação Superior em Marketing (Unicesumar, 2019)
