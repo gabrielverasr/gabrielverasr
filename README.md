@@ -39,6 +39,8 @@
 [<img src="https://images.credly.com/size/220x220/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="100" height="100">](https://www.credly.com/badges/a70943e8-3348-450a-b8a5-fd50e811a96b/public_url) Endpoint Security - Cisco
 [<img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="100" height="100">](https://www.credly.com/badges/520bb29a-0e22-4039-ab6b-1c5732deee4f) 
 Networking Basics - Cisco
+[<img src="https://gabrielveras.art/wp-content/uploads/participantnetworkingacademy202.png" width="100" height="100">](https://www.credly.com/badges/647cb869-d8ac-4490-b688-0da57ea475bf/public_url) 
+Networking Academy Learn-A-Thon 2024
 
 ### ⏳ Sistemas de Informação (UFV-CRP 8º Período)
 
