@@ -39,12 +39,12 @@
 [<img src="https://images.credly.com/size/220x220/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="100" height="100">](https://www.credly.com/badges/a70943e8-3348-450a-b8a5-fd50e811a96b/public_url) Endpoint Security - Cisco
 [<img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="100" height="100">](https://www.credly.com/badges/520bb29a-0e22-4039-ab6b-1c5732deee4f) 
 Networking Basics - Cisco
-[<img src="https://gabrielveras.art/wp-content/uploads/participantnetworkingacademy202.png" width="100" height="100">](https://www.credly.com/badges/647cb869-d8ac-4490-b688-0da57ea475bf/public_url) 
-Networking Academy Learn-A-Thon 2024
-[<img src="https://images.credly.com/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" width="100" height="100">](https://www.credly.com/badges/b41bfa29-db5e-4301-ae72-6482d609447b/public_url) 
-English for IT 1
 [<img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100" height="100">](https://www.credly.com/badges/b326a108-b575-446f-ab59-b9a9c9fac612) 
 CCNA: Introduction to Networks
+[<img src="https://images.credly.com/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" width="100" height="100">](https://www.credly.com/badges/b41bfa29-db5e-4301-ae72-6482d609447b/public_url) 
+English for IT 1
+[<img src="https://gabrielveras.art/wp-content/uploads/participantnetworkingacademy202.png" width="100" height="100">](https://www.credly.com/badges/647cb869-d8ac-4490-b688-0da57ea475bf/public_url) 
+Networking Academy Learn-A-Thon 2024
 
 ### ⏳ Sistemas de Informação (UFV-CRP 8º Período)
 
