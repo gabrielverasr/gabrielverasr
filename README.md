@@ -43,6 +43,8 @@ Networking Basics - Cisco
 Networking Academy Learn-A-Thon 2024
 [<img src="https://images.credly.com/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" width="100" height="100">](https://www.credly.com/badges/b41bfa29-db5e-4301-ae72-6482d609447b/public_url) 
 English for IT 1
+[<img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100" height="100">](https://www.credly.com/badges/b326a108-b575-446f-ab59-b9a9c9fac612) 
+CCNA: Introduction to Networks
 
 ### ⏳ Sistemas de Informação (UFV-CRP 8º Período)
 
