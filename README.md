@@ -41,6 +41,7 @@
 [<img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100" height="100">](https://www.credly.com/badges/b326a108-b575-446f-ab59-b9a9c9fac612)
 [<img src="https://images.credly.com/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" width="100" height="100">](https://www.credly.com/badges/b41bfa29-db5e-4301-ae72-6482d609447b/public_url)
 [<img src="https://gabrielveras.art/wp-content/uploads/participantnetworkingacademy202.png" width="100" height="100">](https://www.credly.com/badges/647cb869-d8ac-4490-b688-0da57ea475bf/public_url)
+[<img src="https://gabrielveras.art/wp-content/uploads/GCC_badge_UX_1000x1000.png" width="100" height="100">](https://www.credly.com/badges/8032a0c7-b250-41c1-93aa-26610a0d8a7c/linked_in_profile)
 
 ### ⏳ Sistemas de Informação (UFV-CRP 8º Período/Incompleto)
 
