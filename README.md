@@ -1,6 +1,6 @@
 ### 🧔 Olá eu sou o Gabriel Veras! 
 
-### 💻 Site [gabrielveras.art](https://gabrielveras.art) 
+### 💻 Site [gabrielveras.com.br](https://gabrielveras.com.br) 
 
 ### 👥 Redes Sociais
 
